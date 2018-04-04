@@ -1,0 +1,82 @@
+{
+    "data": [
+        {
+            "id": "WB", 
+            "name": "White Bread",
+            "type": "Bread",
+            "quantity": 10,
+            "ingredients": [
+                {
+                    "name": "Water",
+                    "type": "wet",
+                    "quantity": 250,
+                    "units": "ml"
+                },
+                {
+                    "name": "Flour",
+                    "type": "dry",
+                    "quantity": 500,
+                    "units": "gm"
+                },
+                {
+                    "name": "Yeast",
+                    "type": "dry",
+                    "quantity": 20,
+                    "units": "tbl"
+                }
+            ] 
+        },
+        {
+            "id": "WWB", 
+            "name": "Whole Wheat Bread",
+            "type": "Bread",
+            "quantity": 20,
+            "ingredients": [
+                {
+                    "name": "Water",
+                    "type": "wet",
+                    "quantity": 300,
+                    "units": "ml"
+                },
+                {
+                    "name": "Whole Wheat Flour",
+                    "type": "dry",
+                    "quantity": 500,
+                    "units": "gm"
+                },
+                {
+                    "name": "Yeast",
+                    "type": "dry",
+                    "quantity": 30,
+                    "units": "tbl"
+                }
+            ] 
+        },
+        {
+            "id": "CC", 
+            "name": "Chocolate Cake",
+            "type": "Cake",
+            "quantity": 5,
+            "ingredients": [
+                {
+                    "name": "Butter",
+                    "type": "wet",
+                    "quantity": 200,
+                    "units": "gm"
+                },
+                {
+                    "name": "Flour",
+                    "type": "dry",
+                    "quantity": 500,
+                    "units": "gm"
+                },
+                {
+                    "name": "Sugar",
+                    "type": "dry",
+                    "quantity": 250,
+                    "units": "gm"
+                }
+            ] 
+        }
+    ]
+}
